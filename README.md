@@ -7,3 +7,6 @@ Beat
 
 Added two more lines to the file
 echo "Hell World"
+
+Here we go for a second test
+Done by Beat
