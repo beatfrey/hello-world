@@ -4,3 +4,6 @@ This is my first test with GitHub
 Lets see how it works for me
 Al the best 
 Beat
+
+Added two more lines to the file
+echo "Hell World"
